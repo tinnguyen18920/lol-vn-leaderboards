@@ -1,0 +1,192 @@
+{
+    "divisions": [
+        {
+            "apexUnlockTimeMillis": 0,
+            "division": "NA",
+            "maxLeagueSize": 2147483647,
+            "standings": [
+                {
+                    "division": "NA",
+                    "earnedRegaliaRewardIds": [
+                        "regalia-split-1"
+                    ],
+                    "isProvisional": false,
+                    "leaguePoints": 0,
+                    "losses": 186,
+                    "miniseriesResults": [],
+                    "pendingDemotion": false,
+                    "pendingPromotion": false,
+                    "position": 1,
+                    "positionDelta": 0,
+                    "previousPosition": 0,
+                    "previousSeasonAchievedDivision": "III",
+                    "previousSeasonAchievedTier": "DIAMOND",
+                    "provisionalGamesRemaining": 0,
+                    "puuid": "8c87bdd7-7440-5043-af4a-9f8273cb2371",
+                    "rankedRegaliaLevel": 1,
+                    "rivalName": "",
+                    "summonerId": 16074393,
+                    "summonerName": "SF sKayˇAD",
+                    "tier": "MASTER",
+                    "wins": 214
+                },
+                {
+                    "division": "NA",
+                    "earnedRegaliaRewardIds": [
+                        "regalia-split-1"
+                    ],
+                    "isProvisional": false,
+                    "leaguePoints": 0,
+                    "losses": 210,
+                    "miniseriesResults": [],
+                    "pendingDemotion": false,
+                    "pendingPromotion": false,
+                    "position": 2,
+                    "positionDelta": 0,
+                    "previousPosition": 0,
+                    "previousSeasonAchievedDivision": "I",
+                    "previousSeasonAchievedTier": "DIAMOND",
+                    "provisionalGamesRemaining": 0,
+                    "puuid": "9c9ed911-1f71-56ac-b961-0a8b69b4a173",
+                    "rankedRegaliaLevel": 1,
+                    "rivalName": "",
+                    "summonerId": 20256239,
+                    "summonerName": "cam giac cua anh",
+                    "tier": "MASTER",
+                    "wins": 213
+                },
+                {
+                    "division": "NA",
+                    "earnedRegaliaRewardIds": [
+                        "regalia-split-1"
+                    ],
+                    "isProvisional": false,
+                    "leaguePoints": 0,
+                    "losses": 132,
+                    "miniseriesResults": [],
+                    "pendingDemotion": false,
+                    "pendingPromotion": false,
+                    "position": 3,
+                    "positionDelta": 0,
+                    "previousPosition": 0,
+                    "previousSeasonAchievedDivision": "III",
+                    "previousSeasonAchievedTier": "DIAMOND",
+                    "provisionalGamesRemaining": 0,
+                    "puuid": "ea14937c-826a-525c-8664-993666d7187a",
+                    "rankedRegaliaLevel": 1,
+                    "rivalName": "",
+                    "summonerId": 35176332,
+                    "summonerName": "Tâñ Ñîêñ",
+                    "tier": "MASTER",
+                    "wins": 177
+                },
+                {
+                    "division": "NA",
+                    "earnedRegaliaRewardIds": [
+                        "regalia-split-1"
+                    ],
+                    "isProvisional": false,
+                    "leaguePoints": 0,
+                    "losses": 69,
+                    "miniseriesResults": [],
+                    "pendingDemotion": false,
+                    "pendingPromotion": false,
+                    "position": 4,
+                    "positionDelta": 0,
+                    "previousPosition": 0,
+                    "previousSeasonAchievedDivision": "IV",
+                    "previousSeasonAchievedTier": "DIAMOND",
+                    "provisionalGamesRemaining": 0,
+                    "puuid": "6054afe9-726f-5f35-8dfd-e992d3970194",
+                    "rankedRegaliaLevel": 1,
+                    "rivalName": "",
+                    "summonerId": 8217761,
+                    "summonerName": "SF 1m Gayˆ",
+                    "tier": "MASTER",
+                    "wins": 104
+                },
+                {
+                    "division": "NA",
+                    "earnedRegaliaRewardIds": [
+                        "regalia-split-1"
+                    ],
+                    "isProvisional": false,
+                    "leaguePoints": 0,
+                    "losses": 64,
+                    "miniseriesResults": [],
+                    "pendingDemotion": false,
+                    "pendingPromotion": false,
+                    "position": 5,
+                    "positionDelta": 0,
+                    "previousPosition": 0,
+                    "previousSeasonAchievedDivision": "I",
+                    "previousSeasonAchievedTier": "DIAMOND",
+                    "provisionalGamesRemaining": 0,
+                    "puuid": "eb1e50b8-7127-5a78-8c04-61b5fbc24124",
+                    "rankedRegaliaLevel": 1,
+                    "rivalName": "",
+                    "summonerId": 31886242,
+                    "summonerName": "ˆĐợi Vy Vyˆ",
+                    "tier": "MASTER",
+                    "wins": 77
+                },
+                {
+                    "division": "NA",
+                    "earnedRegaliaRewardIds": [
+                        "regalia-split-1"
+                    ],
+                    "isProvisional": false,
+                    "leaguePoints": 0,
+                    "losses": 44,
+                    "miniseriesResults": [],
+                    "pendingDemotion": false,
+                    "pendingPromotion": false,
+                    "position": 6,
+                    "positionDelta": 0,
+                    "previousPosition": 0,
+                    "previousSeasonAchievedDivision": "I",
+                    "previousSeasonAchievedTier": "PLATINUM",
+                    "provisionalGamesRemaining": 0,
+                    "puuid": "33b052f2-eea3-5e3f-b388-783c2dddaeb4",
+                    "rankedRegaliaLevel": 1,
+                    "rivalName": "",
+                    "summonerId": 44055315,
+                    "summonerName": "Gïrl Ñïdälëê",
+                    "tier": "MASTER",
+                    "wins": 58
+                },
+                {
+                    "division": "NA",
+                    "earnedRegaliaRewardIds": [
+                        "regalia-split-1"
+                    ],
+                    "isProvisional": false,
+                    "leaguePoints": 0,
+                    "losses": 26,
+                    "miniseriesResults": [],
+                    "pendingDemotion": false,
+                    "pendingPromotion": false,
+                    "position": 7,
+                    "positionDelta": 0,
+                    "previousPosition": 0,
+                    "previousSeasonAchievedDivision": "NA",
+                    "previousSeasonAchievedTier": "GRANDMASTER",
+                    "provisionalGamesRemaining": 0,
+                    "puuid": "dd753603-0b53-5ad1-a1e3-40dc527de726",
+                    "rankedRegaliaLevel": 1,
+                    "rivalName": "",
+                    "summonerId": 3114369,
+                    "summonerName": "ßông ßúp ßê",
+                    "tier": "MASTER",
+                    "wins": 33
+                }
+            ],
+            "tier": "MASTER"
+        }
+    ],
+    "nextApexUpdateMillis": 1587746700000,
+    "provisionalGameThreshold": 10,
+    "queueType": "RANKED_FLEX_SR",
+    "requestedRankedEntry": null,
+    "tier": "MASTER"
+}
