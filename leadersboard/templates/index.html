@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<form method="get">
+  <select id="type" name="type">
+    <option value="ranked_solo_5x5">Đơn/Đôi</option>
+    <option value="ranked_flex_sr">Linh Hoạt</option>
+    <option value="ranked_tft">TFT</option>
+  </select>
+  <select id="rank" name="rank">
+    <option value="challenger">Thách Đấu</option>
+    <option value="grandmaster">Đại Cao Thủ</option>
+    <option value="master">Cao Thủ</option>
+  </select>
+
+  <button type="submit"> Kết Quả</button>
+</form>
+{% endblock %}

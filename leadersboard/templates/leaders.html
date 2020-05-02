@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form method="get">
+  <select id="type" name="type">
+    <option value="ranked_solo_5x5">Đơn/Đôi</option>
+    <option value="ranked_flex_sr">Linh Hoạt</option>
+    <option value="ranked_tft">TFT</option>
+  </select>
+  <select id="rank" name="rank">
+    <option value="challenger">Thách Đấu</option>
+    <option value="grandmaster">Đại Cao Thủ</option>
+    <option value="master">Cao Thủ</option>
+  </select>
+
+  <button type="submit"> Kết Quả</button>
+</form>
+<table class="ranking-table">
+    <colgroup>
+        <col width="100">
+            <col width="230">
+                <col width="90">
+                    <col width="90">
+                        <col width="90">
+                            <col width="198">
+    </colgroup>
+    <thead>
+        <tr>
+            <th class=""></th>
+            <th class="">Anh Hùng</th>
+            <th class="">Điểm</th>
+            <th class="">Thắng/Bại</th>
+            <th class="">Xếp hạng mùa trước</th>
+
+        </tr>
+    </thead>
+    <tbody>
+    {% for sd in standings %}
+        <tr class=" " id="{{ sd.summonerId }}">
+            <td class=" ">{{ sd.position}}</td>
+            <td class="">
+                <a href="anhhung/"><img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7b/Lil%27_Sprout_profileicon.png/revision/latest/scale-to-width-down/48?cb=20170517183840" "><span>{{ sd.summonerName }}</span></a>
+            </td>
+            <td class="">
+                {{ sd.leaguePoints }}
+            </td>
+            <td class=" ">
+                <p>{{ sd.wins }}/{{ sd.losses }}</p>
+            </td>
+            <td class="">
+                {{ sd.previousSeasonAchievedTier }}
+            </td>
+
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}
